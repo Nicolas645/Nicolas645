@@ -7,7 +7,9 @@
 
 #
   
-<p align="center">Sou estudante de desenvolvimento full-stack pelo programa de Residência em TIC/Software do Serratec e estou atualmente cursando Defesa Cibernética na Universidade Estácio de Sá. Tenho um forte compromisso com a aprendizagem contínua e mantenho-me atualizado nas últimas tendências da tecnologia. Minha paixão está em criar experiências de usuário excepcionais através do desenvolvimento front-end, enquanto também mantenho interesse no desenvolvimento back-end. Estou motivado a utilizar meus conhecimentos para desenvolver soluções inovadoras que impactem positivamente as pessoas e negócios.
+<p align="center">Sou estudante de desenvolvimento full-stack pelo programa de Residência em TIC/Software do Serratec e estou atualmente cursando Defesa Cibernética na Universidade Estácio de Sá.
+<p align="center">Tenho um forte compromisso com a aprendizagem contínua e mantenho-me atualizado nas últimas tendências da tecnologia. 
+<p align="center">Minha paixão está em criar experiências de usuário excepcionais através do desenvolvimento front-end, enquanto também mantenho interesse no desenvolvimento back-end. Estou motivado a utilizar meus conhecimentos para desenvolver soluções inovadoras que impactem positivamente as pessoas e negócios.
   
 #
 
